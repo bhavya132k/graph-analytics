@@ -9,7 +9,7 @@ This project focuses on analyzing and visualizing a large dataset using graph an
 - **Visualization:** Create meaningful plots to visualize the relationships in the graph and the extracted insights.
 
 ## Project Components
-### 1. `Gaph_Analytics_Docn.pdf`
+### 1. `Graph_Analytics_Docn.pdf`
 Comprehensive documentation detailing the steps taken throughout the project, including data preprocessing, graph creation, graph simplification, and application of various graph analytics functions. The document contains all code snippets and their corresponding outputs.
 
 ### 2. `graph-analytics.R`
